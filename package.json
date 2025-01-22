@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.4.1",
-    "astro": "^4.3.2",
+    "astro": "^4.6.1",
+    "cv_ingrid": "file:",
     "ninja-keys": "^1.2.2",
     "typescript": "^5.3.3"
   }
